@@ -1,0 +1,337 @@
+%%% Notizen...
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
+
+\documentclass[12pt,a4paper]{article}
+%\documentclass[12pt,a4paper,twoside]{article}
+\usepackage[T1]{fontenc}
+\usepackage{ngerman}
+\usepackage{times}
+\usepackage{epstopdf}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\pagestyle{myheadings}         % Option to put page headers
+
+\title{Allgemeine Themen und Gedanken}
+\author{Gerd Jährling}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\part{Gedanken zur Bedeutung von Sprache}
+\section{Bausteine des Denkens}
+Erörterung der Frage, was als Basis und gundlegender Baustein unseres Denkens angesehen werden kann.\\\\
+Läuft das Denken grundsätzlich über Bilder ab,
+d.h. sind Bilder die ``atomaren'' Bestandteile unseres Denkens, die wir dann durch Sprache beschreiben, oder bildet unsere Sprache, 
+also die Worte als ständiger Strom von Assoziationen, die Grundlage unseres Denkens?
+
+Wenn das Denken sich nur über die Bilder manifestieren kann, die wir in der Vergangenheit einmal gesehen hatten, dann ist die
+Kreativittät, also die Möglichkeit etwas ``Neues''\footnote{Der Begriff \glqq Neues muss genauer umrissen sein\grqq} zu erfinden dadurch begrenzt, dass nur die Neu-Kombination vorhandener
+(bekannter) Bilder möglich ist, da wir uns etwas, was wir nicht kennen, nicht vorstellen können und dementsprechend darfür auch keine Wort
+finden. Wir können uns zwar eine tropische Insel vorstellen, auf der wir niemals gewesen sind, aber nur dadurch, dass wir uns 
+bestimmte, bereits einmal gesehene Bilder wieder in die Erinnerung rufen, oder vorhandene Bilder (vielleicht in einem neuen
+Zusammenhang) anders kombinieren.
+Beispiele in der Kunst hierfür wären u.a. die Surrealisten wie Magrit, oder Dali, die vorhandene Dinge in einer unbekannten Weise neu
+kombinierten. 
+
+Möglich wäre, für das eigene Denken bewusst zu versuchen, die ``ausgetretenen Pfade'' zu verlassen und bekannte Dinge absichtlich
+auf eine neue Weise zu kombinieren, um dadurch neue Ansätze zu gewinnen.
+\subsection{These}
+Das Denken kreist um Bilder, als primäres Ausdrucksmittel unseres Denkens, da viele Denkprozesse, besonders die der Assoziation
+und der Erinnerung, bruchstückhaft (siehe Arno Schmidt) auftreten und sich sprachlich (besonders in der Assoziation) nicht adäquat
+beschreiben lassen. Das ``Bild'' als Mittel unserer Wahrnehmung und neuronalen Erzeugung bzw. Verarbeitung drängt sich auch
+aufgrund der schnelleren ``Verarbeitungsgeschwindigkeit'' auf, bevor man die sprachliche Assoziation erzeugt hat, erscheinen
+Bilder vor den geistigen Auge. Die Sprache ist hier auch unvollständig, da sich bestimmte Gefühlt, Gerüche, Gedanken ect. nicht
+adäquat in Worte fassen lassen und die Sprache --durch die höhere Abstraktion-- an dieser Stelle immer hinter den Gedanken als
+Bilder zurückbleiben muss. 
+\subsection{Anti-These}
+Was ist mit abstrakten Dingen, dis sich nicht bildlich darstellenden lassen, dem Verständniss von Logik und Abstraktion, der Abfolge von Aktion und
+Reaktion?
+\subsection{Synthese}
+Primär existieren Assoziationen und Gedanken als Bilder, nahezu alle Bereiche des Denkens lassen sich bildlich darstellen, oder
+wurden durch Assoziativen in der Vergagnenheit einmal erlebt. Da die bildliche Assoziation sich schneller manifestiert als die
+sprachliche, ist besonders in unbekannten, unvorhersehbaren Situationen oder Situationen, die schnelles Handeln erfordern die Verknüpfung
+bildlicher Assoziationen entscheidend.
+
+Die Frage, ob unterschiedliche bildliche Assoziationen zu neuen verknüpft werden können sollte zu einem neuen Paar These <-->
+Antithese führen.
+\part{Rolle der Musik in der heutigen Gesellschaft}
+\section{Musik als Sprache}
+Lässt sich die Funktion von Musik als Ausprägung einer Sprache definieren, deren Wechsel sich über die Zeiten
+manifestiert. Demnach wäre Musik nur innerhalb der Zeit verstehbar, in der sie entstanden ist. Ähnlich wie die Architektur auch
+über die Zeit verschiedene Stile durchläuft. Die Veränderungen der Musik, das Neue, Unerwartete erscheint nur den Menschen in
+ihrer Zeit, danach verblasst die Wirkung und die Stile überlagern
+sich. 
+\subsection{These}
+Die Musik einer Zeit ist nur in gewissen Grenzen intuitiv
+verstehbar. Danach ist die Wirkung des Werks auf den Zuhörer nicht
+mehr die, die der Komponist beabsichtigt hatte. Durch eine
+Beeinflussung späterer Stile erkennt der Zuhörer die Feinheiten in den
+Werken nicht mehr (ähnlich wie die Symbolik in der bildenden Kunst dem
+heutigen Menschen fremd ist). Zudem ist die Wirkung auf das zeitliche
+Umfeld bezogen in dem der Schöpfer existierte, ein \glqq
+Zurückgehen\grqq in der Zeit ist nicht möglich und daher sinnlos.
+\subsection{Anti-These}
+Gro{\ss}e Kunstwerke sind nicht an eine Zeit gebunden, sondern
+behandeln Dinge, die jedem Menschen in jeder Zeit natürlich sind, sie
+sind daher intuitiv auch au{\ss}erhalb ihrer Zeit verstehbar. Die Form
+der Kunstwerke ist hierbei von ihrer Wirkung auf Betrachter oder Hörer
+abgekoppelt. 
+\subsection{Synthese}
+Der vom Künstler, Komponist etc. beagsichtigte Ausdruck ist an die
+Darstellungsform die der Künstler wählte gebunden und durch diese
+realisiert. Der Einsatz der künstlerichen Mittel 
+
+\subsection{Beispiel der Kommerzialisierung}
+Als ein Beispiel der \textit{\glqq Kommerzialisierung\grqq} der Musik
+kann der Gran-Prix-Eurovision (oder Eurovision-Song-Contest) verwendet
+werden. Hier wird aus Gründen des Erfolgs versucht den Geschmack einer
+möglichst gro{\ss}en Anzahl europäischer Bürger zu treffen.  
+
+Die Perversion besteht darin, dass man einen Wettbewerb auf
+europäischer Ebene veranstaltet, bei dem sich jedes Land 
+(mit seiner Musik als Teil der nationalen Identität und Kultur) vorstellt,
+aber gleichzeitig versucht wird die Unterschiede zu nivellieren, den
+Massengeschmack in möglichst vielen Ländern zu treffen. Dies führt
+zwangläufig zu einer \textit{\glqq Mc-Donaldisierung\grqq} der
+Musik. 
+
+Durch die Auswahlverfahren in jedem Land wird versucht, den Gipfel 
+der Gausschen-Maximalverteilung möglichst optimal zu bestimmen und ein
+Titel zu wählen, der diesen auch bei Abstimmungen in anderen Ländern
+erreicht. Die Schwierigkeit besteht darin zu zeigen, dass die Qualität
+von der Kompatibilität abgekoppelt ist, d.h. die Aussage: \glqq\ wenn es
+jedem gefällt muss es gut sein\grqq\ kann nicht getroffen werden und
+ist grundsätzlich falsch.
+
+\newpage
+\part{Hierarchien und Organisation von Arbeit}
+\section{Archetypen innerhalb einer Hierarchie}
+Im Allgemeinen lassen sich in jeder Hierarchie unterschiedliche Rollen
+erkennen. Je nach Rolle und Ambition der Mitarbeiter kann zwischen 
+\begin{itemize}
+\item Entscheider (Strategen)
+\item Macher (Realisierer, Veränderer)
+\item Ausführer (Sachbearbeiter)
+\end{itemize}
+unterschieden werden. Obwohl diese Grund- oder Archetypen sehr
+abstrahiert sind -- sich die Grundtypen teilweise überschneiden,
+bzw. überlappen können, und die Grenzen flie{\ss}end sind -- finden sich in jeder Hierarchie
+Ausprägungen dieser Archetypen in mehr oder weniger reiner Form.
+Im Einzelnen:
+\paragraph{Entscheider:} Der Entscheider hat zwar im besten Fall eine
+Vision, oder Strategie, verfügt aber kaum über ein Konzept dieses
+umzusetzen, da ihm die Sachkenntnis der Details fehlt. Da dem
+Strategen die Kenntnis der Umsetzbarkeit fehlt, ist er auf den Macher
+angewiesen, der die Strategie in die Form einer Realisierung überführt.
+Der Stratege hat kein Interesse an Prozessen, oder Systemen, er
+glaubt, dass seine Strategie bereits eine Lösung ist, oder zumindest
+diese beinhaltet. 
+
+Beispiele hierfür sind:
+\begin{quote}
+  \textit{Wir müssen wettbewerbsfähiger werden, wir müssen das
+  Marktwachstum in Asien abschöpfen. Wir müssen unsere Prozesse optimieren.}
+\end{quote}
+Nur in der Verbindung von Strategie und Realisierung besteht die
+Chance einer Veränderung, ohne die Unterstützung des Machers -- der
+die Strategie in die Realität umsetzen kann -- bleibt die Strategie
+eine Ansammlung von Management \glqq Plattitüden\grqq. Allerdings kann
+der Entscheider -- ohne wirklich etwas zu verändern -- Veränderungen
+anstossen. Ähnlich wie beim Schachspiel ist es für den Erfolg einer
+Strategie nicht entscheidend möglichst flexibel auf die Einflüsse von
+aussen zu reagieren, vielmehr ist eine nachhaltige Strategie (bzw. die
+Stärke einer Strategie) von äusseren Einflüssen weitestehend unabhängig.
+\paragraph{Macher:} Der Macher ist in erster Linie an einer Umsetzung (oder
+Implementierung) durch Änderung von Prozessen oder Systemen
+interessiert. Er sieht die Notwendigkeit von Veränderung nur über die
+Umsetzbarkeit oder Realisierung, hierin unterscheidet er sich vom
+Strategen, der auch unrealisierbare Veränderungen vertritt. Im Schluss
+vertritt der Macher nur die Veränderungen, die er auch realisieren
+kann, was dazu führt, dass das visionäre in seiner Denkweise
+fehlt. Ihn interessieren nur realisierbare Veränderungen, er steht für
+eine Umsetzung vom Abstrakten ins Konkrete.
+
+\paragraph{Ausführer:} Der Ausführer ist in aller Regel nicht an
+Veränderungen interessiert. Er nutzt nur bestehende Prozesse und
+Systeme und verschwendet keine Eigeninitiative daran, Veränderungen
+einzuleiten. Als Sachbearbeiter verwendet er nur Systeme, die vom
+Macher implementiert wurden. Dies bedeutet nicht, dass er unkritisch
+gegenüber bestehenden Systemen oder Prozessen ist, seine Kritik führt
+aber nicht zu einer Veränderung. Er ist der Type, der Millionen
+Fu{\ss}ball-Bundestrainer, die alles kritisieren, besser machen
+könnten, wenn sie etwas zu sagen hätten. In aller Regel ist die Kritik
+der Ausführer unstrukturiert und von geringer Methodik. Die Kenntnis
+des Ausführers an bestehenden Prozessen muss aber vom Macher bei der
+Umsetzung verwendet werden. 
+\section{Axiome der Organisation}
+Unrealisierbare Strategien führen zu keiner Veränderung, genauso wie 
+
+Der Stratege leitet nur, er verändert oder implementiert aber nichts. Der
+Macher muss zu einen leiten, die Veränderung aber mit umsetzten, ihm
+kommt eine Hauptrolle bei Veränderungsprozessen zu. Der Ausführer
+verändert nichts und kann auch keine Veränderungen einleiten. 
+
+\part{Prozesse und Methoden}
+\section{Grundproblematik}
+Eine neuer Ansatz in der betriebswirtschaftlichen Praxis versucht
+Prozesse in des Zentrum der Betrachtung zu stellen, beispielsweise
+dann, wenn Abläufe optimiert werden sollen. Für bestimmte Tätigkeiten sind aber
+Prozessdefinitionen nicht hilfreich, vielmehr benötigt man in diesen
+Bereichen \textit{Methoden}, die sich in unterschiedlichen Zusammenhängen
+anwenden lassen. Die Definition von Methoden ist hierbei allerdings
+nicht so trivial, wie die einer Prozessdefinition.\\\\
+Im Folgenden sollen die Unterschiede zwischen Prozessbeschreibungen
+und Methoden diskutiert werden.
+\section{Unterscheidung von Methode und Prozess}
+Die grundsätzliche Unterscheidbarkeit von Methoden und Prozessen
+besteht in der Definition von Ausführungsschritten und deren
+Abfolge. Während also bei einer
+Prozessbeschreibung die Reihenfolge bestimmter Schritte definiert
+werden und Verzweigungen, Fallunterscheidungen und Alternativen
+bestehen, besteht der Einsatz einer bestimmten Methode in einer
+definierten \textit{\glqq Herangehensweise\grqq} an ein Problem.
+
+Laut Allweyer wird ein Geschäftsprozess definiert als:
+\begin{quote}
+\textit{\glqq\dots Abfolge von Funktionen zur Erfüllung einer
+betriebswirtschaftlichen Aufgabe, wobei die Leistung in Form von
+Informations- und/oder Materialtransformation erbracht wird\dots\grqq.}
+\end{quote}
+Die Prozesse können sich hierbei aus unterschiedlichen Subprozessen
+zusammensetzen, deren Ausführungsschritte einer zeitlichen Abfolge
+unterliegen. Zudem muss sich der Status des Prozesses -- der
+Teilprozesse und somit auch des Gesamtprozesses -- zu jedem
+Zeitpunkt im Prozessverlauf eindeutig bestimmen lassen. 
+
+Prozessdefinitionen werden durch Fallbeschreibungen
+bestimmt. Hierbei sind die Definition des Prozessziels, die
+Anfangsbedingungen und Kennzahlen zur Messung des Prozessverlaufs ma{\ss}geblich.
+
+Prozesse haben also durchaus einen (Prozess)Lebenszyklus und lassen
+sich über Kennzahlen -- wie beispielsweise die Prozessdurchlaufdauer,
+oder die Anzahl der Bearbeitungsschritte -- bestimmen. \\\\
+Methoden haben gegenüber Prozessen den Vorteil, nicht die konkrete Ausführung
+bestimmter Schritte in einer gegebenen Reihenfolge zu beschreiben,
+sondern die Art und Weise zu definieren, wie man sich einem gegebenen
+Problem nähert. Dadurch sind Methoden flexibler, da man eine Methode
+in unterschiedlichen Kontexten anwenden kann, eine Prozessdefinition
+sich aber auf einen bestimmten Kontext bezieht und zur Erreichung eines
+bestimmten Prozessziels ausgerichtet ist.
+
+Methoden werden im Allgemeinen definiert als:
+\begin{quote}
+  \textit{\glqq\dots auf einem Regelsystem aufbauendes Verfahren, das
+    zur Erlangung von (wissenschaftlichen) Erkenntnissen oder
+    praktischen Ergebnissen dient\dots\grqq}
+\end{quote}
+Allgemein also \textit{die (strukturierte) Art und Weise des Vorgehens} als
+planmä{\ss}iges, folgerichtiges Verfahren, Vorgehen oder Handeln,
+wobei das \glqq Regelsystems\grqq\ als Grundlage des Vorgehens oder
+Verfahrens, also als Basis der Methode angesehen werden kann.
+
+\section{Vorteile der Prozessdefinition}
+\label{sec:vorteile_prozess}
+Die Geschäftsprozesse der Unternehmen finden in aller Regel in der
+Ausprägung der Organisation ihre Entsprechung. Der Prozess der \glqq
+Auftragsbearbeitung\grqq\ findet in der korrespondierenden Abteilung
+statt, wobei es durchaus Schnittstellen zu anderen Abteilungen geben
+kann, die (Teil)Aufgaben innerhalb des Gesamtprozesses übernehmen
+(bsp. Auftragseingabe).
+
+Durch die Definition des Prozessablaufs werden die Reihenfolge der zu
+bearbeitenden Schritte, Verzweigungen und Fallunterscheidungen bestimmt. Die
+Definition des Geschäftsprozesses beantwortet also die Frage:
+\begin{quote}
+  \textit{Wer macht Was, Wann (in welcher Reihenfolge) zur Erreichung
+    welchen betriebswirtschaftlichen Gesamtziels}
+\end{quote}
+Aus dieser Definition ergibt sich, dass Prozesse \textbf{nicht} dazu
+geeignet sind weiterführende Erkenntnisse zu unterschiedlichen
+Fragestellungen zu gewinnen, da das \textit{\glqq Warum\grqq} in der
+Definition nicht auftaucht.
+\section{Vorteile des Einsatzes von Methoden}
+Aus der Beschreibung der Prozesse (siehe \ref{sec:vorteile_prozess})
+ergibt sich, dass sich die Ursache eines Zustands oder die Behebung eines Problems nicht
+(oder nur ungenügend) durch einen Prozess lösen lä{\ss}t, da durch
+einen Prozess zwar die Ausführungsschritte vorgegeben werden, nicht aber
+die Methodik einer Problemlösung abgeleitet werden kann, da die
+Methodik in der Art und Weise des Vorgehens besteht. Durch eine
+Methode werden die Schritte, die zur Klärung eines Zustandes, die
+Definition einer Ursache erst \textit{bestimmt}; bei einem Prozess müssen diese
+Schritte bereits feststehen.
+
+\section{Methodologien}
+Methodologien werden im Allgemeinen dadurch charakterisiert, dass man
+eine Methode zur \textit{Erlangung oder Beurteilung einer Methode} anwendet. Methodik
+ist demnach eine Lehre über die (wissenschaftliche) Vorgehensweisen.
+
+\begin{quote}
+\textit{Methodologie (griechisch) die, Lehre von den in den
+Einzelwissenschaften angewendeten Methoden, als Teil der Logik
+zentraler Gegenstandsbereich der gegenwärtigen Wissenschaftstheorie.}
+\end{quote}
+
+\part{Selbstorganisation}
+Grundlegende Aspekte der Selbstorganisation sollen an dieser Stelle
+diskutiert werden. Hierbei wird teilweise der Begriff
+\textit{Management} in unterschiedlichen Zusammenhängen verwendet. 
+Eine Begriffsklärung erscheint an dieser Stelle sinnvoll.
+
+\begin{quote}
+  \textit{Management: von engl. manage im Sinne von \glqq an der Hand
+    führen\grqq. Im Wortstamm steckt das lateinische Wort \glqq manus
+    (Hand)\grqq enthalten.}
+\end{quote}
+Der Begriff des \textit{Managements} wird zwar in aller Regel eher im
+Zusammenhang mit \glqq Führung, oder Führen\grqq\ verwendet, kann aber
+auch als \textit{geordneter und optimierter Umgang} mit etwas
+verstanden werden, diese Verwendung ist beim Zeit- und
+Wissensmanagement anzuwenden. 
+\section{Grundproblematik}
+Die Grundproblematik und Grundanforderung einen modernen
+Selbstmanagements kann nur darin bestehen, zum einen Wissen zu
+verwalten und zum anderen die Selbstorganisation über ein Zeit- und
+Aufgabenmanagement so zu gestalten, dass die Verwaltung der Aufgaben
+systematisiert, automatisiert, aber dennoch effizient gestaltet.
+
+Der Verwaltung der Aufgaben und Zeitpläne darf also nur so wenig Zeit
+als möglich in Anspruch nehmen, auch die Verwaltung des eigenen
+Wissens 
+
+\subsection{Wissensmanagement}
+
+\subsection{Zeitmanagement}
+
+\newpage
+\part{Denkmethoden und Denkmodelle}
+Allen Denkmethoden und Modellen sollte gemein sein, das hinter den Ursachen wirkende Prinzip zu entdecken. 
+Prinzipiell kann eine \glqq Methodik der Wissensfindung\grqq\ in zwei unterschiedlichen Ausprägungen erfolgen: 
+\begin{enumerate}
+\item Wissensverwaltung
+\item Wissensgewinnung
+\end{enumerate}
+Beide Methoden sind notwendig und nur eine effektive Kombination beider Ansätze ermöglicht eine effektive Arbeitsumgebung und produktive Abläufe.
+\section{Wissensverwaltung}
+Die Verwaltung von Wissen richtet sich and Archivierung, Speicherung und Zugriff auf Informationen. Relevant ist zu berücksichtigen, dass Information ungleich
+Wissen ist. Bei der Archivierung von Informationen ist notwendig hinreichende Suchkriterien und Suchmethoden zu etablieren. Zudem ist die 
+\textit{Verknüpfung} von Informationen ein wichtiger Bestandteil der Wissensverwaltung. 
+
+Beide Bereiche lassen sich kaum streng voneinander abgrenzen, vielmehr ist die Verwaltung von Information eine Vorausssetzung für die Gewinnung 
+neuer Informationen und neuen Wissens
+\section{Wissensgewinnung}
+
+\subsection{Analogien}
+
+\subsection{Abstraktion}
+
+
+
+\end{document}

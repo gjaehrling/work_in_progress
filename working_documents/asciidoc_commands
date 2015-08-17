@@ -1,0 +1,4 @@
+# asciidoc commands
+# include or exclude --fop to adjust the layout
+
+a2x -f pdf --fop --no-xmllint asciidoc_letter.txt

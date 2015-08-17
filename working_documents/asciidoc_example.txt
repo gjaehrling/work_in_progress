@@ -1,0 +1,87 @@
+Week 8, Discussion Question 2, Ajax for Workplace
+=================================================
+Gerd Jaehrling <mail@gerd-jaehrling.de>
+v1.0, December 2010:
+
+Ajax in ERP-System-Development
+------------------------------
+As currently working in the field of ERP applications, I dont see any
+utilization for an asynchronous processing of data in this field. The
+reason behind is, that ERP-systems can be seen as huge
+database-systems in which operations like the update, insert or
+deletion of a data-record in the database must transfer the status of
+the database-system from one consistent state to another consistent
+state. Moreover, data like for instance an item of a customer order are often
+represented as one tuple in the database, the submitting of all items
+as a whole will limit the number of database-accesses, which will
+presumably increase if the Ajax engine will submit data to the
+database if the focus of a field is lost using asynchronous
+processing. Only if services for ERP-systems are made available as
+SaaS, the usage of asynchronous communication between client and
+server can be useful.
+
+Ajax for Reporting-Systems
+--------------------------
+As off February next year, my responsibility will change from the
+development for ERP-systems (i.e. SAP as main processing-system) to
+the development of reporting solutions thus Data-Warehouse and
+Business-Intelligence systems.  
+
+In the field of reporting-systems, it is currently standard to use a
+synchronous connection to the data-warehouse. Therefore, the
+navigation within the data-pool is interrupted by the reload of the
+whole page (if the user-interface is web-based) or the spreadsheet (if
+an Excel-integration is used) (Deitel, 2008). 
+
+According to my understanding, the necessity and success of Ajax and
+asynchronous data processing between a client and a server is grounded
+on the fact, that it allows the browsing in huge applications without
+loading the complete amount of data into the browser (for instance using
+Google-Maps, or Street-View). The navigation in a huge data pool of a
+company in the same way as navigating in a map can be seen as one
+field of operation for data-warehousing especially when data are
+displayed via a web-frontend. However, the impact of sending
+asynchronous requests to a database system from a huge number of users
+must be analysed. 
+
+The disadvantage of Ajax processing is, that the data are made available
+through the Ajax-engine using XML. This is maybe not useful and
+designed for a huge amount of data to be processed (Wenz, 2010). 
+
+Ajax for the Workplace
+----------------------
+In the year 2006, Andrew McAffee coined the term 'Enterprise 2.0' in
+his article about 'Enterprise 2.0, the Dawn of Emergent Collaboration'
+(McAffee, 2006). I believe, that within the next decade our working
+environment, the way we communicate and share information will
+change. It has already impacted our private lifes and so will also the
+communication within companies. It will shift from the synchronous
+communication (like mail) to a more distributed communication and
+sharing of knowledge using blogs, wikis and shared folders. For
+instance, for the 'Microsoft Sharepoint' platform it is possible to
+use Ajax libraries. I believe, that these methods of communication
+will enhance the usage of Ajax or another framework allowing
+asynchronous communication.
+
+References:
+-----------
+Content from the following sources was used for this document:
+
+[bibliography]
+- [[Deitel]] P.J. Deitel and H.M. Deitel. 'Internet & World Wide Web,
+  How to program' (fourth edition 2008). Pearson Press 
+- [[McAffee]] McAffee Andrew (2006). 'Enterprise 2.0, the Dawn of
+  Emergent Collaboration'. [Online] Available from:
+  http://www.wikiservice.at/upload/ChristopheDucamp/McAfeeEntrepriseDeux.pdf
+  Accessed on 26th of December 2010
+- [[Wenz]] Wenz Christian (2010). 'JavaScript' (10th
+  edition). GalileoComputing. 
+
+ifdef::backend-docbook[]
+Index
+-----
+////////////////////////////////////////////////////////////////
+The index is normally left completely empty, it's contents being
+generated automatically by the DocBook toolchain.
+////////////////////////////////////////////////////////////////
+endif::backend-docbook[]

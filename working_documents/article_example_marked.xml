@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <date>2012-08-01</date>
+</articleinfo>
+<simpara>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"&gt;
+  &lt;title&gt;article_example&lt;/title&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+  &lt;style&gt;
+/*
+   This document has been created with Marked.app <ulink url="http://markedapp.com">http://markedapp.com</ulink>, Copyright 2011 Brett Terpstra
+   Please leave this notice in place, along with any additional credits below.
+   ---------------------------------------------------------------
+   Title: GitHub
+   Author: Brett Terpstra
+   Description: Github README style. Includes theme for Pygmentized code blocks.
+<emphasis role="strong">/</simpara>
+<simpara>github.com style (c) Vasily Polovnyov &lt;<ulink url="mailto:vast@whiteants.net">vast@whiteants.net</ulink>&gt;</simpara>
+<simpara>*/</simpara>
+<simpara>pre code {
+  display: block; padding: 0.5em;
+  color: #000;
+  background: #f8f8ff
+}</simpara>
+<simpara>pre .comment,
+pre .template_comment,
+pre .diff .header,
+pre .javadoc {
+  color: #998;
+  font-style: italic
+}</simpara>
+<simpara>pre .keyword,
+pre .css .rule .keyword,
+pre .winutils,
+pre .javascript .title,
+pre .lisp .title,
+pre .subst {
+  color: #000;
+  font-weight: bold
+}</simpara>
+<simpara>pre .ruby .keyword {
+  font-weight: normal
+}</simpara>
+<simpara>pre .number,
+pre .hexcolor {
+  color: #40a070
+}</simpara>
+<simpara>pre .string,
+pre .tag .value,
+pre .phpdoc,
+pre .tex .formula {
+  color: #d14
+}</simpara>
+<simpara>pre .title,
+pre .id {
+  color: #900;
+  font-weight: bold
+}</simpara>
+<simpara>pre .javascript .title,
+pre .lisp .title,
+pre .subst {
+  font-weight: normal
+}</simpara>
+<simpara>pre .class .title,
+pre .haskell .label,
+pre .tex .command {
+  color: #458;
+  font-weight: bold
+}</simpara>
+<simpara>pre .class .params {
+        color: #000;
+}</simpara>
+<simpara>pre .tag,
+pre .tag .title,
+pre .rules .property,
+pre .django .tag .keyword {
+  color: #000080;
+  font-weight: normal
+}</simpara>
+<simpara>pre .attribute,
+pre .variable,
+pre .instancevar,
+pre .lisp .body {
+  color: #008080
+}</simpara>
+<simpara>pre .regexp {
+  color: #009926
+}</simpara>
+<simpara>pre .class {
+  color: #458;
+  font-weight: bold
+}</simpara>
+<simpara>pre .symbol,
+pre .ruby .symbol .string,
+pre .ruby .symbol .keyword,
+pre .ruby .symbol .keymethods,
+pre .lisp .keyword,
+pre .tex .special,
+pre .input_number {
+  color: #0086b3
+}</simpara>
+<simpara>pre .ruby .identifier .keyword,
+pre .ruby .identifier .keymethods {
+  color: #0086b3;
+}</simpara>
+<simpara>pre .ruby .constant {
+  color: #008080;
+}</simpara>
+<simpara>pre .builtin,
+pre .built_in,
+pre .lisp .title {
+  color: #0086b3
+}</simpara>
+<simpara>pre .preprocessor,
+pre .pi,
+pre .doctype,
+pre .shebang,
+pre .cdata {
+  color: #999;
+  font-weight: bold
+}</simpara>
+<simpara>pre .deletion {
+  background: #fdd
+}</simpara>
+<simpara>pre .addition {
+  background: #dfd
+}</simpara>
+<simpara>pre .diff .change {
+  background: #0086b3
+}</simpara>
+<simpara>pre .chunk {
+  color: #aaa
+}</simpara>
+<simpara>pre .tex .formula {
+  opacity: 0.5;
+}
+&lt;/style&gt;</simpara>
+<simpara>&lt;/head&gt;
+&lt;body class="normal"&gt;
+  &lt;div id="wrapper"&gt;
+      &lt;h1 id="thearticletitle"&gt;The Article Title&lt;/h1&gt;</simpara>
+<simpara>&lt;p&gt;Author&#8217;s Name &lt;a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#58;&#x61;&#117;&#116;&#104;&#x6f;&#114;&#x73;&#x40;&#x65;&#x6d;&#97;&#105;&#108;&#x2e;&#x61;&#100;&#x64;&#114;&#x65;&#115;&#x73;"&gt;&#97;&#117;&#116;&#x68;&#x6f;&#x72;&#115;&#64;&#101;&#x6d;&#x61;&#x69;&#108;&#46;&#x61;&#100;&#x64;&#x72;&#101;&#115;&#x73;&lt;/a&gt;
+v1.0, Dec 2003&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;This is the optional preamble (an untitled section body). Useful for
+writing simple sectionless documents consisting only of a preamble.&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;The optional abstract (one or more paragraphs) goes here.&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;This document is an AsciiDoc article skeleton containing briefly
+annotated element placeholders plus a couple of example index entries
+and footnotes. The preface, appendix, bibliography, glossary and index
+section titles are significant (&#8216;specialsections&#8217;).&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="thefirstsection"&gt;The First Section&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;Article sections start at level 1 and can be nested up to four levels
+deep.
+<footnote><simpara>An example footnote.</simpara></footnote>
+<indexterm>
+  <primary>Example index entry</primary>
+</indexterm>&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;And now for something completely different: <indexterm><primary>monkeys</primary></indexterm>monkeys, lions and
+tigers (Bengal and Siberian) using the alternative syntax index
+entries.
+<indexterm>
+  <primary>Big cats</primary><secondary>Lions</secondary>
+</indexterm>
+<indexterm>
+  <primary>Lions</primary>
+</indexterm>
+<indexterm>
+  <primary>Big cats</primary><secondary>Tigers</secondary><tertiary>Bengal Tiger</tertiary>
+</indexterm>
+<indexterm>
+  <primary>Tigers</primary><secondary>Bengal Tiger</secondary>
+</indexterm>
+<indexterm>
+  <primary>Bengal Tiger</primary>
+</indexterm>
+<indexterm>
+  <primary>Big cats</primary><secondary>Tigers</secondary><tertiary>Siberian Tiger</tertiary>
+</indexterm>
+<indexterm>
+  <primary>Tigers</primary><secondary>Siberian Tiger</secondary>
+</indexterm>
+<indexterm>
+  <primary>Siberian Tiger</primary>
+</indexterm>
+Note that multi-entry terms generate separate index entries.&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;Here are a couple of image examples: an <inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="images/smallnew.png"/>
+  </imageobject>
+  <textobject><phrase>images/smallnew.png</phrase></textobject>
+</inlinemediaobject>
+example inline image followed by an example block image:&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;.Tiger block image
+<inlinemediaobject>
+  <imageobject>
+  <imagedata fileref=":images/tiger.png"/>
+  </imageobject>
+  <textobject><phrase>Tiger image</phrase></textobject>
+</inlinemediaobject>&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;Followed by an example table:&lt;/p&gt;</simpara>
+<simpara>&lt;p&gt;.An example table
+&lt;code&gt;-----------------&lt;/code&gt;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="optiondescription"&gt;Option Description&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;-a &#8216;USER GROUP&#8217; Add &#8216;USER&#8217; to &#8216;GROUP&#8217;.&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="rgroupdisablesaccesstogroup."&gt;-R &#8216;GROUP&#8217; Disables access to &#8216;GROUP&#8217;.&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;<anchor id="X1" xreflabel="[X1]"/>
+Sub-section with Anchor</simpara>
+<screen>Sub-section at level 2.</p>
+
+<p>A Nested Sub-section
+^^^^^^^^^^^^^^^^^^^^
+Sub-section at level 3.</p>
+
+<p>Yet another nested Sub-section
+++++++++++++++++++++++++++++++
+Sub-section at level 4.</p>
+
+<p>This is the maximum sub-section depth supported by the distributed
+AsciiDoc configuration.
+footnote:[A second example footnote.]</p>
+
+<h2 id="thesecondsection">The Second Section</h2>
+
+<p>Article sections are at level 1 and can contain sub-sections nested up
+to four deep.</p>
+
+<p>An example link to anchor at start of the &lt;&lt;X1,first sub-section&gt;&gt;.
+indexterm:[Second example index entry]</p>
+
+<p>An example link to a bibliography entry &lt;<taoup>&gt;.</p>
+
+<h2 id="appendixa:exampleappendix">Appendix A: Example Appendix</h2>
+
+<p>AsciiDoc article appendices are just just article sections with
+&#8216;specialsection&#8217; titles.</p>
+
+<p>Appendix Sub-section</screen>
+<simpara>Appendix sub-section at level 2.&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;The bibliography list is an example of an AsciiDoc SimpleList, the
+AsciiDoc source list items are bulleted with a &lt;code&gt;+&lt;/code&gt; character.&lt;/p&gt;</simpara>
+<simpara>&lt;ul&gt;
+&lt;li&gt;<anchor id="taoup" xreflabel="[taoup]"/>[taoup] Eric Steven Raymond. &#8216;The Art of Unix
+ Programming&#8217;. Addison-Wesley. ISBN 0&#8211;13&#8211;142901&#8211;9.&lt;/li&gt;
+&lt;li&gt;<anchor id="walsh-muellner" xreflabel="[walsh-muellner]"/>[walsh-muellner] Norman Walsh &amp; Leonard Muellner.
+ &#8216;DocBook - The Definitive Guide&#8217;. O&#8217;Reilly &amp; Associates. 1999.
+ ISBN 1&#8211;56592&#8211;580&#8211;7.&lt;/li&gt;
+&lt;/ul&gt;</simpara>
+<simpara>&lt;h2 id="glossary"&gt;Glossary&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;Glossaries are optional. Glossaries entries are an example of AsciiDoc
+VariableList entries, the AsciiDoc source entry terms are terminated
+by the &#8220;:-&#8221; characters.&lt;/p&gt;</simpara>
+<glossentry>
+<glossterm>
+&lt;p&gt;A glossary term
+</glossterm>
+<glossdef>
+<simpara>
+ The corresponding (indented) definition.&lt;/p&gt;
+</simpara>
+</glossdef>
+</glossentry>
+<glossentry>
+<glossterm>
+&lt;p&gt;A second glossary term
+</glossterm>
+<glossdef>
+<simpara>
+ The corresponding (indented) definition.&lt;/p&gt;
+</simpara>
+</glossdef>
+</glossentry>
+<simpara>&lt;p&gt;ifdef::backend-docbook[]&lt;/p&gt;</simpara>
+<simpara>&lt;h2 id="index"&gt;Index&lt;/h2&gt;</simpara>
+<simpara>&lt;p&gt;////////////////////////////////////////////////////////////////
+The index is normally left completely empty, it&#8217;s contents being
+generated automatically by the DocBook toolchain.</simpara>
+</article>
